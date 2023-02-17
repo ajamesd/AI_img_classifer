@@ -1,6 +1,8 @@
 AI Programming with Python Final Project: Developing an Image Classifier with Deep Learning
 Please see the repo for the files required to train one of three Neural Network models: VGG 13, VGG 16 and VGG 19.
 
+Note that training data is not included in this repo
+
 TRAIN
 
 Train.py should be run initally to train the selected model.
